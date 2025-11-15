@@ -1,2 +1,3 @@
 # smartbin-iot
 Real-time Smart Bin IoT system for waste monitoring using ESP32, Firebase, and Web Dashboard
+SmartBin-IoT/ ├── Arduino/ │   └── smart_bin.ino             # Kode mikrokontroler untuk membaca sensor dan kirim data ke Firebase ├── Python/ │   └── firebase_push.py          # Skrip Python untuk simulasi pengiriman data ke Firebase ├── Dashboard/ │   ├── index.html                # Tampilan dashboard web │   └── script.js                 # Logika pengambilan data dari Firebase ├── Docs/ │   ├── architecture_diagram.png # Diagram arsitektur sistem │   └── flowchart.pdf             # Alur kerja sistem ├── README.md                     # Penjelasan umum eksperimen dan struktur file └── requirements.txt              # Dependensi Python
