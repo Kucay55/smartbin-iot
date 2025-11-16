@@ -36,11 +36,10 @@ requests==2.31.0
 pip install -r requirements.txt
 python firebase_push.py
 
-python firebase_push.py
-
 Dashboard Web
 - Buka Dashboard/index.html di browser
 - Pastikan konfigurasi Firebase sudah diatur di script.js
+
 
 🔐 Konfigurasi Firebase
 Pastikan Anda sudah membuat project Firebase dan mendapatkan:
